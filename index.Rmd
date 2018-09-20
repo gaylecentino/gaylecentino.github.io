@@ -4,6 +4,7 @@ title: "About Me"
 
 ![](/Users/gaylecentino/Pictures/IMG_1463.jpeg)
 
+
 ### **Background** ###
 
 Hi, I'm Gayle Centino and I am a Junior at Appalachian State University! I am from Raleigh, NC and I am Filipino-American. I am an undergraduate student studying Mathematics with a Statistics concentration and a Minor in Computer Science. After I graduate, I hope to attend graduate school in order to obtain a Master's degree in either Data Analytics or Biostatistics. I love learning how to program in different languages and I find technology interesting and exciting to experiment with.
@@ -28,11 +29,13 @@ Additionally, I serve as a leader for Delight, a college women's ministry. In th
 * Both my dad and my older sister received a Bachelor's degree in Statistics as well
 * I have studied Spanish for 5 years before
 
+
+
 ### **Contact Info** ###
 
 #####*Gayle G. Centino*#####
-centinog@appstate.edu
+Email: centinog@appstate.edu
 
-919-866-2842
+Phone: 919-866-2842
 
 Click [here](https://github.com/gaylecentino/gaylecentino.github.io.git) for my Github Repository.
