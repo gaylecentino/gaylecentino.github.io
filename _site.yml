@@ -1,0 +1,15 @@
+name: "gaylecentino.github.io"
+output_dir: "."
+navbar:
+  title: "Gayle G. Centino"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Links"
+      href: links.html
+output: 
+  html_document:
+    theme: paper
+    highlight: kate

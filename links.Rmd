@@ -1,0 +1,82 @@
+---
+title: "Completed Data Camp Courses"
+---
+
+**[Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/80b14d4f9ab3ecd42144c8f041995207578b66ab)**
+
+  *Chapters & Topics Covered:* 
+  
+  * Vectors
+  * Matrices
+  * Factors
+  * Data Frames
+  * Lists
+
+**[Introduction to Data](https://www.datacamp.com/statement-of-accomplishment/course/78cbba41ee509d37c3ef24cbab7c42be99b525e0)**
+
+  *Chapters & Topics Covered:* 
+  
+  * Terminology of Datasets and Data Frames in R
+  * Observational Studies and Experiments
+  * Scope of Inference
+  * Simpson's Paradox
+  * Sampling Strategies
+  * Principles of Experimental Design
+
+**[Working with the RStudio IDE (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/034daebe28c4130f8008e23a0b728dd8ec3aee20)**
+
+  *Chapters & Topics Covered:*
+  
+  * How to Install R Studio for Mac, Windows or Linux
+  * How to Run R Code
+  * Debugging in R
+  * Code Diagnostics
+  * Running Code
+  * Organizing Code
+  * Sharing Code
+
+**[Introduction to Git for Data Science](https://www.datacamp.com/statement-of-accomplishment/course/6760c8656adb15df5c86bcbffd9a28c3d57686a1)**
+
+  *Chapters & Topics Covered:*
+  
+  * Basic Workflow
+  * Repositories
+  * Undo Changes
+  * Working with Branches
+  * Collaborating
+
+**[Introduction to the Tidyverse](https://www.datacamp.com/statement-of-accomplishment/course/d29ff280fc9927db31be9a1794d8ad433bc9cb0f)**
+
+  *Chapters & Topics Covered:*
+
+  * Data Wrangling
+  * Data Vizualization
+  * Grouping
+  * Summarizing
+  * Types of Visualizations
+  
+**[Exploratory Data Analysis](https://www.datacamp.com/statement-of-accomplishment/course/e28fc889cc69544e12b7dd85abbca2c8ba7c361b)**
+
+  *Chapters & Topics Covered:*
+  
+  * Exploring Categorical Data
+  * Exploring Numerical Data
+  * Numerical Summaries
+
+**[Communicating with Data in the Tidyverse](https://www.datacamp.com/statement-of-accomplishment/course/4fc912fd7e65ca1545fe27b4e111c55a9c63abff)**
+  
+  *Chapters & Topics Covered:*
+  
+  * Custom ggplot2 Themes
+  * Creating a Custom and Unique Visualization
+  * Introduction to R Markdown
+  * Customizing R Markdown Reports
+
+**[Reporting with R Markdown](https://www.datacamp.com/statement-of-accomplishment/course/6d3c69dfbb483f68e9d440b82f575ccb1156b79b)**
+
+  *Chapters & Topics Covered:*
+  
+  * Authoring R Markdown Reports
+  * Embedding Code
+  * Compiling Reports
+  * Configuring R Markdown

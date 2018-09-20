@@ -1,0 +1,30 @@
+---
+title: "Gayle Centino"
+---
+
+### **Summary of Qualifications** ###
+
+A current undergraduate student at Appalachian State University. Looking for opportunities that will enable me to grow and utilize my experience and skills with mathematics, statistics and programming. A great listener who easily cooperates with others but also works well alone. Very efficient and organized and likes to be productive and stays on top of her work. Strives to achieve work to the best of her ability and is punctual about finishing projects.
+
+
+
+### **Education** ###
+
+* Appalachian State University, Boone, NC: 2016-2020
+* Bachelor of Science in Mathematics, Concentration in Statistics
+* Minor in Computer Science
+* Experience with programming in R and Java
+* Experience with Microsoft Excel, Github, and Maple
+
+
+
+### **Courses Related to Degree** ###
+
+* Statistical Data Analysis I
+* Computational Mathematics
+* Linear Algebra
+* Data Science I
+* Fundamentals of Probability
+* Techniques of Proof
+* Introduction to Real Analysis
+* Computer Science I
