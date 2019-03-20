@@ -9,8 +9,6 @@ navbar:
       href: resume.html
     - text: "Links"
       href: links.html
-    - text: "Photos"
-      href: photos.html 
 output: 
   html_document:
     theme: paper

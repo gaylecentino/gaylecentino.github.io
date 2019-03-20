@@ -13,7 +13,8 @@ A current undergraduate student at Appalachian State University. Looking for opp
 * Appalachian State University, Boone, NC: 2016-2020
 * Bachelor of Science in Mathematics, Concentration in Statistics
 * Minor in Computer Science
-* Experience with programming in R and Java
+* Profficient experience with programming in R
+* Some experience with programming in Python, Java, and C++
 * Experience with Microsoft Excel, Github, and Maple
 
 
@@ -28,3 +29,6 @@ A current undergraduate student at Appalachian State University. Looking for opp
 * Techniques of Proof
 * Introduction to Real Analysis
 * Computer Science I
+* Data Science II
+* Statistical Data Analysis II
+* Numerical Methods

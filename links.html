@@ -52,9 +52,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -79,6 +77,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -93,7 +94,6 @@ body {
   padding-top: 69px;
   margin-top: -69px;
 }
-
 .section h2 {
   padding-top: 69px;
   margin-top: -69px;
@@ -113,6 +113,43 @@ body {
 .section h6 {
   padding-top: 69px;
   margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -134,19 +171,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -171,6 +274,9 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="links.html">Links</a>
+</li>
+<li>
+  <a href="photos.html">Photos</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -259,6 +365,32 @@ $(document).ready(function () {
 <li>Embedding Code</li>
 <li>Compiling Reports</li>
 <li>Configuring R Markdown</li>
+</ul>
+<p><strong><a href="https://www.datacamp.com/statement-of-accomplishment/course/b2ff40b3072dccebc5c769acd0e5201af16caef7">Correlation and Regression</a></strong></p>
+<p><em>Chapters &amp; Topics Covered:</em></p>
+<ul>
+<li>Techniques for exploring bivariate relationships</li>
+<li>Using correlation to quantify bivariate relationships</li>
+<li>Simple linear regression</li>
+<li>Interpretating linear regression models</li>
+<li>Model fit</li>
+</ul>
+<p><strong><a href="https://www.datacamp.com/statement-of-accomplishment/course/456d2e3a60611b9e25982590eda17c99decaaadf">Multiple Logistic Regression</a></strong></p>
+<p><em>Chapters &amp; Topics Covered:</em></p>
+<ul>
+<li>Parallel Slope Models</li>
+<li>Evaluating and extending parallel slopes model</li>
+<li>Multiple Regression</li>
+<li>Logistic Regression</li>
+</ul>
+<p><strong><a href="https://www.datacamp.com/statement-of-accomplishment/course/9d7388b169a045bb4883367f32182b4b2387413d">Machine Learning Toolbox</a></strong></p>
+<p><em>Chapter &amp; Topics Covered:</em></p>
+<ul>
+<li>Regression models: fitting them and evaluating their performance</li>
+<li>Classification models: fitting them and evaluating their performance</li>
+<li>Tuning model parameters to improve performance</li>
+<li>Preprocessing data</li>
+<li>Selecting models</li>
 </ul>
 
 

@@ -80,3 +80,32 @@ title: "Completed Data Camp Courses"
   * Embedding Code
   * Compiling Reports
   * Configuring R Markdown
+  
+**[Correlation and Regression](https://www.datacamp.com/statement-of-accomplishment/course/b2ff40b3072dccebc5c769acd0e5201af16caef7)**
+  
+  *Chapters & Topics Covered:*
+  
+  * Techniques for exploring bivariate relationships
+  * Using correlation to quantify bivariate relationships
+  * Simple linear regression
+  * Interpretating linear regression models
+  * Model fit
+  
+**[Multiple Logistic Regression](https://www.datacamp.com/statement-of-accomplishment/course/456d2e3a60611b9e25982590eda17c99decaaadf)**
+
+  *Chapters & Topics Covered:*
+  
+  * Parallel Slope Models
+  * Evaluating and extending parallel slopes model
+  * Multiple Regression
+  * Logistic Regression
+  
+**[Machine Learning Toolbox](https://www.datacamp.com/statement-of-accomplishment/course/9d7388b169a045bb4883367f32182b4b2387413d)**
+
+  *Chapter & Topics Covered:*
+  
+  * Regression models: fitting them and evaluating their performance
+  * Classification models: fitting them and evaluating their performance
+  * Tuning model parameters to improve performance
+  * Preprocessing data
+  * Selecting models
