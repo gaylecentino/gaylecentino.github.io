@@ -5,7 +5,7 @@ title: "About Me"
 
 ### **Background** ###
 
-Hi, I'm Gayle Centino and I am a Junior at Appalachian State University! I am from Raleigh, NC and I am Filipino-American. I am an undergraduate student studying Mathematics with a Statistics concentration and a Minor in Computer Science. After I graduate, I hope to attend graduate school in order to obtain a Master's degree in either Data Analytics or Biostatistics. I love learning how to program in different languages and I find technology interesting and exciting to experiment with.
+Hi, I'm Gayle Centino and I am a Junior at Appalachian State University! I am from Raleigh, NC and I am Filipino-American. I am an undergraduate student studying Mathematics with a Statistics concentration. After I graduate, I hope to attend graduate school in order to obtain a Master's degree in either Data Analytics or Biostatistics. I love learning how to program in different languages and I find technology interesting and exciting to experiment with.
 
 
 
